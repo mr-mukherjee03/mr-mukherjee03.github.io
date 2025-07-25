@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Research Intern ",
+        "organisation": " IIT Dhanbad",
+        "startDate":"May, 2025",
+        "endDate":"Present",
+        "experiences":["Worked on google maps","Reduced load time"],
+        "imageSrc":"history/ism.png"
+    },
+    {
+        "role":"Intern ",
+        "organisation":" Coal India Limited",
+        "startDate":"May, 2024",
+        "endDate":"Jul, 2024",
+        "experiences":["Worked on windows 11","Designed the control panel"],
+        "imageSrc":"history/coal_dark.png"
+    }
+    
+
+]
