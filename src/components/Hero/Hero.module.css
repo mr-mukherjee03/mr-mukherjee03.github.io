@@ -33,6 +33,9 @@
     font-family: var(--font-robot);
     margin-bottom: 52px;
 }
+.description strong{
+    color: rgb(230,0,157);
+}
 
 .contactBtn{
     text-decoration: none;

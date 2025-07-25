@@ -2,7 +2,7 @@
     {
       "title": "MADRS-Modular Asynchronous Distributed Retail System",
       "imageSrc": "project/madrs.png",
-      "description": ["Developed using Django 5, PostgreSQL, Redis, Celery, RabbitMQ, and Stripe.","Implemented user auth, product search, shopping cart, and payment flow.","Asynchronous order handling using Celery task queues and Redis cache.","Fully Dockerized and deployed on Azure with Nginx + Gunicorn setup.","Designed for scalability and high-availability in production environments."],
+      "description": ["Implemented user auth, product search, shopping cart, and payment flow.","Asynchronous order handling using Celery + RabbitMQ and Redis cache.","Dockerized and deployed on Azure, Nginx + Gunicorn setup.","Designed for scalability and high-availability in production environments."],
       "skills": ["Django","RabbitMQ","PostgreSQL", "Redis","Celery","Docker"],
       "demo": "https://madrs.azurewebsites.net/",
       "source": "https://github.com/mr-mukherjee03/madrs-web-commerce-backend/"
@@ -10,7 +10,7 @@
     {
       "title": "🩺 Lung Nodule Detection System using Deep Learning",
       "imageSrc": "project/luna.png",
-      "description": ["Built a full 3D lung cancer detection pipeline using PyTorch.","CT scan preprocessing, 3D CNN-based classification, and U-Net segmentation.","Handled 220GB+ of scan data with chunked I/O and parallelism.","Applied 3D augmentations to improve generalization.","Deployed a real-time Gradio demo for end-to-end inference from sample scans."],
+      "description": ["Built a full 3D lung cancer detection pipeline using PyTorch.","CT scan preprocessing, 3D CNN-based classification, and U-Net segmentation.","Handled 220GB+ (~1200 CT scans) of data with chunked I/O and parallelism.","Applied 3D augmentations, improved generalization.","Gradio demo, end-to-end inference."],
       "skills": ["PyTorch", "NumPy","Tensorboard","Gradio"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"

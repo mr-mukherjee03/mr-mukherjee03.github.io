@@ -4,15 +4,16 @@
         "organisation": " IIT Dhanbad",
         "startDate":"May, 2025",
         "endDate":"Present",
-        "experiences":["Worked on google maps","Reduced load time"],
+        "experiences":["YOLOv8 + D415 pipeline for pothole volume and gravel estimation.",
+        "Reference plane fitting & Open3D visualization","Adapted for mine haul roads; TensorBoard + Gradio demo."],
         "imageSrc":"history/ism.png"
     },
     {
         "role":"Intern ",
-        "organisation":" Coal India Limited",
+        "organisation":" Central Coalfields Limited",
         "startDate":"May, 2024",
         "endDate":"Jul, 2024",
-        "experiences":["Worked on windows 11","Designed the control panel"],
+        "experiences":["Studied sensor-based mining and IIoT systems","Explored data logging, automation, and reporting workflows"],
         "imageSrc":"history/coal_dark.png"
     }
     
