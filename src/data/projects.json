@@ -10,10 +10,10 @@
     {
       "title": "🩺 Lung Nodule Detection System using Deep Learning",
       "imageSrc": "project/luna.png",
-      "description": ["Built a full 3D lung cancer detection pipeline using PyTorch.","CT scan preprocessing, 3D CNN-based classification, and U-Net segmentation.","Handled 220GB+ (~1200 CT scans) of data with chunked I/O and parallelism.","Applied 3D augmentations, improved generalization.","Gradio demo, end-to-end inference."],
+      "description": ["Built a full 3D lung cancer detection pipeline using PyTorch.","CT scan preprocessing, 3D CNN-based classification, and U-Net segmentation.","Handled 220GB+ (~800 CT scans) of data with chunked I/O and parallelism.","Applied 3D augmentations, improved generalization.","Gradio demo, end-to-end inference."],
       "skills": ["PyTorch", "NumPy","Tensorboard","Gradio"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://huggingface.co/spaces/mr-mukherjee03/luna_space",
+      "source": "https://github.com/mr-mukherjee03/lung-cancer-detection"
     }
     
   ]
